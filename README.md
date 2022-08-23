@@ -1,6 +1,6 @@
 # Learn to Build Metaverse on the Web
 
-Curious about what Web #D is capable of in the hands of seasoned developers? Here are some examples from around the web:
+Curious about what Web 3D is capable of in the hands of seasoned developers? Here are some examples from around the web:
 
 [Bruno Simons interactive portfolio](https://bruno-simon.com/)
 

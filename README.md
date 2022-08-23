@@ -1,4 +1,4 @@
-# Learn to Build Metaverse on the Web
+# Learn to Build Open Metaverse on the Web
 
 Curious about what Web 3D is capable of in the hands of seasoned developers? Here are some examples from around the web:
 

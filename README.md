@@ -8,7 +8,18 @@ Curious about what Web 3D is capable of in the hands of seasoned developers? Her
 
 [Ouigo Let’s Play](http://letsplay.ouigo.com/)
 
+
+## Open Metaverse
+
+[How the Open Metaverse Will Transform Our Online Identities](https://thenewstack.io/how-the-open-metaverse-will-transform-our-online-identities/)
+
+[Web 3D, not Web 3.0](https://alexstlouis.medium.com/the-metaverse-or-should-i-say-the-immersive-web-b5bf7dcf6651)
+
+
+
 ## Getting Started with Three.js and TypeScript
+
+[Three.js Manual](https://threejs.org/manual/#en/fundamentals)
 
 [Learn Three.js for Games using TypeScript (modern way)](https://www.youtube.com/watch?v=p4BHphMBlFA)
 
@@ -30,11 +41,29 @@ Curious about what Web 3D is capable of in the hands of seasoned developers? Her
 
 [3D-Web-Roadmap](https://github.com/Chamepp/3D-Web-Roadmap)
 
+
 ## WebXR with Three.js
 
 [Get started with Augmented Reality on the web using Three.js and WebXR | Part 1](https://medium.com/sopra-steria-norge/get-started-with-augmented-reality-on-the-web-using-three-js-and-webxr-part-1-8b07757fc23a)
 
+[Get started with Augmented Reality on the web using Three.js and WebXR | Part 2](https://medium.com/sopra-steria-norge/get-started-with-augmented-reality-on-the-web-using-three-js-and-webxr-part-2-f10861cd1f1d)
+
+[WebXR](https://immersiveweb.dev/)
+
+## WebGPU with Three.js
+
+There is a new type of Three.js renderer called WebGPURenderer for working with the WebGPU API. 
+
+[Three.js WebGPU Examples](https://threejs.org/examples/?q=webgpu)
+
 ## Metaverse using Three.js
 
 [How to Code a Metaverse with Three.js](https://www.youtube.com/watch?v=99KxEdLMT3g)
+
+[Webaverse](https://docs.webaverse.com/docs/index)
+
+
+## Tools, Libraries, and Frameworks for Metaverse Development
+
+[Top 7 Open-Source Tools and Frameworks for Metaverse Development](https://www.itprotoday.com/software-development/top-7-open-source-tools-and-frameworks-metaverse-development)
 

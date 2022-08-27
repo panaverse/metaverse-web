@@ -50,11 +50,15 @@ Curious about what Web 3D is capable of in the hands of seasoned developers? Her
 
 [WebXR](https://immersiveweb.dev/)
 
+[WebXR Resources](https://github.com/msurguy/awesome-webxr)
+
 ## WebGPU with Three.js
 
 There is a new type of Three.js renderer called WebGPURenderer for working with the WebGPU API. 
 
 [Three.js WebGPU Examples](https://threejs.org/examples/?q=webgpu)
+
+[WebGPU Resources](https://github.com/mikbry/awesome-webgpu)
 
 ## Metaverse using Three.js
 

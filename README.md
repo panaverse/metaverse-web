@@ -21,6 +21,8 @@ Curious about what Web 3D is capable of in the hands of seasoned developers? Her
 
 [Explaining basic 3D theory](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory)
 
+[Learn Three.js - Fourth Edition, will be our textbook when available](https://www.packtpub.com/product/learn-three-js-fourth-edition/9781803233871)
+
 [Three.js Manual](https://threejs.org/manual/#en/fundamentals)
 
 [Learn Three.js for Games using TypeScript (modern way)](https://www.youtube.com/watch?v=p4BHphMBlFA)

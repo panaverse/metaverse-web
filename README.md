@@ -56,7 +56,11 @@ Curious about what Web 3D is capable of in the hands of seasoned developers? Her
 
 [WebXR Resources](https://github.com/msurguy/awesome-webxr)
 
-## WebGPU with Three.js
+## WebGPU
+
+[Web GPU Rocks](https://webgpu.rocks/)
+
+[Awesome WebGPU](https://github.com/mikbry/awesome-webgpu)
 
 There is a new type of Three.js renderer called WebGPURenderer for working with the WebGPU API. 
 

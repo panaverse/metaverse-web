@@ -92,6 +92,11 @@ There is a new type of Three.js renderer called WebGPURenderer for working with 
 
 Note: WebCodecs + WebTransport + WebAssembly can be viewed as a WebRTC replacement in some use cases.
 
+## Y.js
+
+[Y.js](https://github.com/yjs/yjs)
+
+[Docs](https://docs.yjs.dev/)
 
 
 ## Tools, Libraries, and Frameworks for Metaverse Development

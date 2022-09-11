@@ -90,6 +90,8 @@ There is a new type of Three.js renderer called WebGPURenderer for working with 
 
 [Cracking a web based metaverse experience with WebRTC](https://www.youtube.com/watch?v=_QPentc_Gv4)
 
+Note: WebCodecs + WebTransport + WebAssembly can be viewed as a WebRTC replacement in some use cases.
+
 
 
 ## Tools, Libraries, and Frameworks for Metaverse Development

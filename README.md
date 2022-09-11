@@ -84,6 +84,8 @@ There is a new type of Three.js renderer called WebGPURenderer for working with 
 
 [Building a Video Chat App with Next.js, 100ms, and TailwindCSS](https://blog.openreplay.com/building-a-video-chat-app-with-next-js-100ms-and-tailwindcss)
 
+[Cracking a web based metaverse experience with WebRTC](https://www.youtube.com/watch?v=_QPentc_Gv4)
+
 
 
 ## Tools, Libraries, and Frameworks for Metaverse Development

@@ -98,6 +98,8 @@ Note: WebCodecs + WebTransport + WebAssembly can be viewed as a WebRTC replaceme
 
 [CRDTs solve distributed data consistency challenges](https://ably.com/blog/crdts-distributed-data-consistency-challenges)
 
+[I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
+
 [Y.js](https://github.com/yjs/yjs)
 
 [Docs](https://docs.yjs.dev/)

@@ -74,6 +74,17 @@ There is a new type of Three.js renderer called WebGPURenderer for working with 
 
 [Webaverse](https://docs.webaverse.com/docs/index)
 
+## WebRTC with 100ms
+
+[100ms](https://www.100ms.live/)
+
+[WebRTC Audio in the Metaverse](https://www.webrtcworld.com/topics/from-the-experts/articles/452651-webrtc-audio-the-metaverse.htm)
+
+[Video and Audio conferencing in few minutes with React](https://blog.openreplay.com/video-and-audio-conferencing-in-few-minutes-with-react)
+
+[Building a Video Chat App with Next.js, 100ms, and TailwindCSS](https://blog.openreplay.com/building-a-video-chat-app-with-next-js-100ms-and-tailwindcss)
+
+
 
 ## Tools, Libraries, and Frameworks for Metaverse Development
 

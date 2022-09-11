@@ -94,6 +94,10 @@ Note: WebCodecs + WebTransport + WebAssembly can be viewed as a WebRTC replaceme
 
 ## Y.js
 
+[Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+
+[CRDTs solve distributed data consistency challenges](https://ably.com/blog/crdts-distributed-data-consistency-challenges)
+
 [Y.js](https://github.com/yjs/yjs)
 
 [Docs](https://docs.yjs.dev/)

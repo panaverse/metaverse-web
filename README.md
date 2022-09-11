@@ -108,6 +108,8 @@ Note: WebCodecs + WebTransport + WebAssembly can be viewed as a WebRTC replaceme
 
 [CRDT Implementations](https://crdt.tech/implementations)
 
+[Yjs Blogs](https://www.tag1consulting.com/yjs-podcasts-blogs-conference-presentations-more)
+
 
 ## Tools, Libraries, and Frameworks for Metaverse Development
 

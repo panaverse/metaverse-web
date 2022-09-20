@@ -121,3 +121,5 @@ Note: WebCodecs + WebTransport + WebAssembly can be viewed as a WebRTC replaceme
 
 [Top 7 Open-Source Tools and Frameworks for Metaverse Development](https://www.itprotoday.com/software-development/top-7-open-source-tools-and-frameworks-metaverse-development)
 
+[Awesome Threejs](https://github.com/0xAxiome/awesome-threejs)
+

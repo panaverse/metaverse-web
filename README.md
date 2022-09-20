@@ -25,6 +25,8 @@ Curious about what Web 3D is capable of in the hands of seasoned developers? Her
 
 [Three.js Manual](https://threejs.org/manual/#en/fundamentals)
 
+[ThreeJS Roadmap](https://github.com/Chamepp/3D-Web-Roadmap)
+
 [Learn Three.js for Games using TypeScript (modern way)](https://www.youtube.com/watch?v=p4BHphMBlFA)
 
 [Three.js Types](https://www.npmjs.com/package/@types/three)

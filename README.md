@@ -31,6 +31,10 @@ Curious about what Web 3D is capable of in the hands of seasoned developers? Her
 
 [Three.js TypeScript Boilerplate](https://github.com/Sean-Bradley/Three.js-TypeScript-Boilerplate)
 
+## 3D Modeling
+
+[Sketchfab](https://sketchfab.com/) is a 3D modeling platform website to publish, share, discover, buy and sell 3D, VR and AR content.
+
 ## Three.js with Next.js
 
 [How to use ThreeJS in React & NextJS](https://dev.to/hnicolus/how-to-use-threejs-in-react-nextjs-4120)

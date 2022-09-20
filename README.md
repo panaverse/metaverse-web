@@ -11,6 +11,8 @@ Curious about what Web 3D is capable of in the hands of seasoned developers? Her
 
 ## Open Metaverse
 
+[The Metaverse is the Web](https://www.etherealengine.com/blog-posts/the-metaverse-is-the-web)
+
 [How the Open Metaverse Will Transform Our Online Identities](https://thenewstack.io/how-the-open-metaverse-will-transform-our-online-identities/)
 
 [Web 3D, not Web 3.0](https://alexstlouis.medium.com/the-metaverse-or-should-i-say-the-immersive-web-b5bf7dcf6651)
